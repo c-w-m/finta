@@ -1,4 +1,4 @@
-# FinTA (Financial Technical Analysis)
+# [FinTA](https://github.com/peerchemist/finta) (Financial Technical Analysis)
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![PyPI](https://img.shields.io/pypi/v/finta.svg?style=flat-square)](https://pypi.python.org/pypi/finta/)
